@@ -4,7 +4,7 @@
 
 <h3>Tecnologias ultilizadas<h3>
 <ul>
-  <li>Python</li>
+  <li><h4>Python<h4></li>
   <li>pygame</li>
   <li>os</li>
   <li>random</li>
