@@ -9,5 +9,3 @@
 <li>os</li>
 <li>random</li>
 </ul>
-
-<h5>Referências e agradecimentos Hashtag programação</h5>
