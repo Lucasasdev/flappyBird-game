@@ -1,6 +1,6 @@
 <h1>Game Flappybird</h3>
 
-<p>Projeto do jogo Flappybird replicado linha por linha em Python, nesse projeto o objetivo era aplicar os conceitos das <strong>estruturas de programação orientada a objetos</strong>.</p>
+<p>Jogo Flappybird desenvolvido em Python, nesse projeto o objetivo é aplicar o jogo e aprimorar os conceitos das <strong>estruturas de programação orientada a objetos</strong> você poderá executar o projeto seguindo os passoas a baixo..</p>
 
 <h3>Tecnologias ultilizadas<h3>
 <ul>
